@@ -1,3 +1,5 @@
+package mvm.daw.exemples;
+
 import java.util.Scanner;
 
 public class StudentTest {

@@ -1,3 +1,5 @@
+package mvm.daw.exemples;
+
 public class Student{
     private int studentId;
     private String name,ssn;
