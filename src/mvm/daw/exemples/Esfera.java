@@ -1,7 +1,5 @@
 package mvm.daw.exemples;
 
-import org.jetbrains.annotations.Contract;
-
 import java.awt.*;
 
 public class Esfera {
@@ -18,7 +16,6 @@ public class Esfera {
         radi = r;
     }
 
-    @Contract(pure = true)
     Esfera (Esfera e){
         radi = e.radi;
     }
