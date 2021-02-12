@@ -22,6 +22,10 @@ abstract class Figure {
         return height;
     }
 
+    /**
+     *
+     * @param height alçada
+     */
     public void setHeight(double height) {
         this.height = height;
     }
