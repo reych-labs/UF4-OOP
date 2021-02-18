@@ -6,5 +6,7 @@ public class AnimalTest {
         Dog myDog = new Dog();
         myPig.animalSound();
         myDog.animalSound();
+        myPig.makesSound();
+        myPig.goesToSleep();
     }
 }
