@@ -5,6 +5,6 @@ public class PoliTest {
         PoliExample obj = new PoliExample();
         obj.print(10);
         obj.print("DAW");
-        obj.print("Hola", 100);
+        obj.print("Hola ", 100);
     }
 }

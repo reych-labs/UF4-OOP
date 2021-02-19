@@ -8,7 +8,7 @@ public class PoliExample {
         System.out.println("El segon mètode amb enteres: "+ i);
     }
     public void print (String s, int i){
-        System.out.println("El tercer mètode amb els dos: - "+ s + "--" + i);
+        System.out.println("El tercer mètode amb els dos : - "+ s + "--" + i);
     }
 }
 
